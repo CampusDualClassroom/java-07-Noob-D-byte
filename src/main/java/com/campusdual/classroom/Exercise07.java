@@ -12,7 +12,7 @@ public class Exercise07 {
     }
 
 
-    // ESTE MÉTODO NO ES NECESARIO HACERLO POR PARTE DE LOS ALUMNOS
+    // ESTE MÉTOh NO ES NECESARIO HACERLO POR PARTE DE LOS ALUMNOS
     // Crear una List<Integer> con los números del 10 al 1. Luego buscar el elemento
     // que se le pasa por parámetro.
     // Si lo encuentra, que imprima el siguiente mensaje → El elemento X se encuentra en la posición: Y
